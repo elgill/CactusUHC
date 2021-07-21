@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[","color":"black"},{"selector":"@e[limit=1,tag=main,type=armor_stand]"},{"text":"]","color":"black"},{"text":" "},{"text":"Welcome to Cactus UHC! The match has already started so you have been put in spectator mode to watch the match. UHC's happen every Saturday around 6 PM EST.","color":"light_purple"}]

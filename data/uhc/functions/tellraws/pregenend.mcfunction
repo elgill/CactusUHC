@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[","color":"black"},{"selector":"@e[limit=1,tag=main,type=armor_stand]"},{"text":"]","color":"black"},{"text":" "},{"text":"Pregeneration Completed!","color":"light_purple"}]

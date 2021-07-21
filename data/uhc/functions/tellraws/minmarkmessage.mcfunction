@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[","color":"black"},{"selector":"@e[limit=1,tag=main,type=armor_stand]"},{"text":"]","color":"black"},{"text":" "},{"text":"This is the ","color":"light_purple"},{"score":{"name":"Display","objective":"temp"},"color":"dark_green"},{"text":" minute mark!","color":"light_purple"}]

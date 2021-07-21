@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[","color":"black"},{"selector":"@e[limit=1,type=armor_stand,tag=main]"},{"text":"] ","color":"black"},{"text":"Welcome to Cactus UHC! We will be starting a game shortly!","color":"light_purple"}]

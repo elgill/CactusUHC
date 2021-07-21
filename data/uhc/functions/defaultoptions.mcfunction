@@ -1,0 +1,17 @@
+scoreboard players set @e[tag=off] teamJoin 1
+scoreboard players set @e[tag=on] spec 1
+scoreboard players set @e[tag=on] regenPots 1
+scoreboard players set @e[tag=on] lvl2Pots 1
+scoreboard players set @e[tag=on] inTabList 1
+scoreboard players set @e[tag=on] belowName 1
+scoreboard players set @e[tag=off] teamCollision 1
+scoreboard players set @e[tag=off] teamDamage 1
+scoreboard players set @e[tag=off] dropGoldApples 1
+scoreboard players set @e[tag=on] worldBordShrink 1
+scoreboard players set @e[tag=main] worldBordShrink 16
+scoreboard players set @e[tag=main] worldBorder 2032
+scoreboard players set @e[tag=main] worldBordDelay 0
+scoreboard players set @e[tag=main] worldBordTime 40
+scoreboard players set @e[tag=on] eternalDay 1
+scoreboard players set @e[tag=main] eternalDay 50
+scoreboard players set minMarkMess temp 10

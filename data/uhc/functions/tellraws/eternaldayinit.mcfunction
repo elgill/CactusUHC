@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[","color":"black"},{"selector":"@e[limit=1,type=armor_stand,tag=main]"},{"text":"] ","color":"black"},{"text":"Eternal Day Inititiated!","color":"light_purple"}]

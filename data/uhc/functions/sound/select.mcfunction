@@ -1,0 +1,1 @@
+playsound entity.experience_orb.pickup voice @s ~ ~ ~ .25 2 .25

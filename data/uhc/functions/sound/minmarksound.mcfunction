@@ -1,0 +1,1 @@
+playsound entity.firework_rocket.launch voice @s ~ ~ ~ 1 .5 1

@@ -1,0 +1,1 @@
+playsound minecraft:entity.villager.death voice @s ~ ~ ~ 1 1 1
